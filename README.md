@@ -10,6 +10,7 @@
 Буду очень рад предложениям по доработке, комментариям и вообще любому фидбеку.
 
 ## Что где:
-- В ноутбуке __[visa_parsing.ipynb](https://github.com/MustDie-green/AWD-forum-visa-parsing/blob/main/visa_parsing.ipynb)__ описан метод сбора и подготовки данных. К сожалению, у меня не получилось абсолютно все сделать автоматизированно, перед анализом пришлось пробежаться по данным глазами и поправить пропущенные значения и ошибки.
-- В ноутбуке __[germany_awd_visa_analysis.ipynb](https://github.com/MustDie-green/AWD-forum-visa-parsing/blob/main/germany_awd_visa_analysis.ipynb)__ анализ с графиками и результатами.
+- В ноутбуке __[visa_parsing.ipynb](https://github.com/MustDie-green/AWD-forum-visa-parsing/blob/main/visa_parsing.ipynb)__ описан метод сбора и подготовки данных. К сожалению, у меня не получилось абсолютно все сделать автоматизированно, перед анализом пришлось пробежаться по данным глазами и поправить пропущенные значения и ошибки;
+- В ноутбуке __[germany_awd_visa_analysis.ipynb](https://github.com/MustDie-green/AWD-forum-visa-parsing/blob/main/germany_awd_visa_analysis.ipynb)__ анализ с графиками и результатами;
+- В __[done_data.csv](https://github.com/MustDie-green/AWD-forum-visa-parsing/blob/main/done_data.csv)__ лежат данные после доработки ~~напильником~~ руками на случай, если кто-то еще захочет их потыкать.
 
